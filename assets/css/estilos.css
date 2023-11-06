@@ -2,13 +2,22 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+h1 {
+  color: #FF0000;
+}
+
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/comida1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+}
+
+.parrafoPortada {
+  color: #FFFF00;
+  font-weight: bold;
 }
 
 /* Mis trabajos */
